@@ -1,5 +1,5 @@
 apm install seti-ui &&
-apm install monokai-seti &&
+apm install seti-syntax &&
 apm install atom-beautify &&
 apm install auto-detect-indentation &&
 apm install autoclose-html &&
