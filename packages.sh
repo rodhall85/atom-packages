@@ -13,4 +13,5 @@ apm install pigments &&
 apm install todo-show &&
 apm install language-cshtml &&
 apm install atom-typescript &&
-apm install last-cursor-position
+apm install last-cursor-position &&
+apm install language-terraform
